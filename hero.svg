@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1000">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#dfe9df"/><stop offset="1" stop-color="#b8ccb9"/></linearGradient></defs>
+<rect width="900" height="1000" rx="48" fill="url(#g)"/>
+<circle cx="660" cy="220" r="170" fill="#edf3ed" opacity=".9"/>
+<path d="M310 730c40-205 115-320 250-320s210 115 250 320v150H210z" fill="#244c3a"/>
+<ellipse cx="560" cy="350" rx="112" ry="135" fill="#d7ad91"/>
+<path d="M450 350c5-125 65-190 150-190 90 0 145 75 130 190-34-48-70-72-118-80-48 35-98 58-162 80z" fill="#4b3b35"/>
+<path d="M505 510c38 32 78 48 112 48s75-16 113-48v125c-28 38-65 56-113 56s-85-18-112-56z" fill="#f3f4ef"/>
+<text x="450" y="940" text-anchor="middle" font-family="Arial" font-size="28" fill="#244c3a" letter-spacing="5">ODONTOLOGIA &amp; ESTÉTICA</text>
+</svg>
